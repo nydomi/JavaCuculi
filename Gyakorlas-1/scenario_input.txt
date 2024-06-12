@@ -1,0 +1,5 @@
+25
+Napoleon Bonaparte;FRENCH;3;400
+Queen Elizabeth;BRITISH;5;490
+Ivan The Terrible;RUSSIAN;2;280
+Frederick The Great;GERMAN;4;340

@@ -1,0 +1,5 @@
+Frederick The Great
+Napoleon Bonaparte FRENCH 5 0
+Queen Elizabeth BRITISH 9 3630
+Ivan The Terrible RUSSIAN 6 0
+Frederick The Great GERMAN 11 1380
